@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">KalkulatorKotlin</string>
+    <string name="first_value">First Value</string>
+    <string name="second_value">Second Value</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="kali">*</string>
+    <string name="bagi">:</string>
+    <string name="hasil_akhir">Hasil Akhir</string>
+    <string name="clear">C</string>
 </resources>
